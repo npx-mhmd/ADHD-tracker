@@ -162,6 +162,3 @@ adhd/
 - JWT-based authentication ensures secure access to the application
 - Passwords are hashed using bcrypt before storage
 
-## License
-
-This project is licensed under the ISC license.
